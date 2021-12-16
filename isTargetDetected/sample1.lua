@@ -1,5 +1,5 @@
 -- Sample of isTargetDetected.
-foundMis = "a b c d e"
+foundMis = { "USA", "RUSSIA" }
 -- function
 if #foundMis > 0 then
 	for i = 1, #foundMis do
